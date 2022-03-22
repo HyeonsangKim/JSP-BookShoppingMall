@@ -20,4 +20,5 @@ MVC2 패턴을 이용한 역사책 쇼핑몰
 
 ## 구동
     회원가입 + 로그인
-![Hnet com-image](https://user-images.githubusercontent.com/62788445/159448948-6d0d8223-4744-47db-a51a-6c12dc1ae94c.gif)
+![Hnet-image](https://user-images.githubusercontent.com/62788445/159450253-12c27e66-6654-42bf-9f06-aa1723e38ccd.gif)
+
