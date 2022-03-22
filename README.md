@@ -39,4 +39,4 @@ MVC2 패턴을 이용한 역사책 쇼핑몰
  <br/>
 결제완료
 <br/>
-
+![pay](https://user-images.githubusercontent.com/62788445/159477085-a298a111-b4b0-4c26-8b43-47e8ca781b8e.jpg)
