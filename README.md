@@ -34,5 +34,6 @@ MVC2 패턴을 이용한 역사책 쇼핑몰
 <br/>
 장바구니 + 주문하기
 <br/>
-![Hnet-image (3)](https://user-images.githubusercontent.com/62788445/159475492-e74fe0f8-e7bb-4520-bfde-29ccc2c04690.gif)
+
+![Hnet-image (3)](https://user-images.githubusercontent.com/62788445/159476384-595244bc-a7ad-4181-acec-6192806d5ce7.gif)
  <br/>
