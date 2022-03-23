@@ -1,5 +1,6 @@
 # JSP-BookShoppingMall
 MVC2 패턴을 이용한 역사책 쇼핑몰
+DB는 Oracle 사용
 
 ## 주요 기능
 * 관리자
